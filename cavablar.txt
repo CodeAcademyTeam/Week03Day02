@@ -1,1 +1,46 @@
-text
+Düzgün oxunaqlı CSS kod yazmaq qaydaları:
+1) CSS Reset kimi toollardan istifadə etmək
+
+2) Düzgün və başadüşülən class yaxud id istifadə etmək
+
+3) Kod yazmazdan öncə plan qurmaq
+
+4) Eyni vertical və yaxud səliqəli sırada yazmaq
+
+5) Bracketləri {} düzgün yerdə açıb və bağlamaq
+
+6) HTML kod tam hazır olduqdan sonra CSS-də style verməyə başlamaq
+
+7) Lazım olmadıqca şəkil istifadəsini azaltmalı əvəzində fontawesome, shape və digər toollardan istifadə etmək
+
+8) CSS style yazdıqdan sonra ikinci,üçüncü dəfə üzərindən keçərək yazdığımız kodu optimizasiya etmək
+
+9) Təkrar classlardan qurtulmaq, mümkün qədər az koddan istifadə etmək(təkrarlardan qaçmaq)
+
+10) İşə könül vermək. Kodu sevgi ilə yazmaq.
+
+-------------------------------------------------------------------------------
+
+Fontawesome kimi iconlar:
+
+Ən çox işlənən icon kitabxanası olmasına baxmayaraq digər iconlar da mövcuddur:
+
+1)IcoMoon
+2)Fontello
+3)Typeicons
+4)Pictonic
+5)Pictos
+
+--------------------------------------------------------------------------------
+
+Azərbaycan dilini dəstəkləyən bəzi şriftlər:
+1) Aldo
+2) Arial
+3) Calibri
+4) Karikatur
+5) Maven
+6) Nova
+7) Opus
+8) Playbill
+9) Cera
+10) Cooper
