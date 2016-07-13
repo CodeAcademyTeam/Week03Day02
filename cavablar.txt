@@ -1,0 +1,32 @@
+Sual <1>
+Düzgün ve oxunaqli CSS kodu yazmaq üçün lazim olabilecek 10 qayda:
+1)Baslanqicda reset.css faylini elave ederek bütün qarsiya çixacaq emeliyatlari sifirlamaq.
+2)Elifba sirasi ile css-de olan kodlari yazmaq. Bu isimizi asanlasdiracaq.
+3)HTML-de verilen basliqlara eyni emrler verilecekse, onlari css-de 1 basliqda yazmaq isi asanlasdirir.
+4)Kommentler vererek hansi hissede kodu yazmaqla hansi emeliyyati yerine yetirmek istediyini gostermek.
+5)Duzgun ardicilliq ve mentiqliliyi qorumaq.
+6)Tam duzgun ve deqiq yerden baslamaq.
+7)CSS ve HTML fayllarinin eyni bir qovluqda oldugundan emin olmaq.
+8)Yazilan kodlar ucun secilen basliqlar daha anlasiqli olmalidir.
+9)Maksimum seviyyede sekillerin olcusunu azaltmaq.
+10)Boyuk projelerde isleyerken 1 deyil, birden cox css faylindan istifade etmek. Bu isi daha da asanlasdiracaq.
+
+Sual <2>
+Font Awesome kimi ikon fontlari varmi? Varsa qisaca haqlarinda m?lumat verin
+Cavab: Bir nece font awesome kimi ikon fontlari vardir:
+1)"Fontello"-Font Awesome-den ferqli olaraq font bazasini hisselere ayirmaq olur.
+2)"Modern Pictograms"-Bu font novu esasen 18 pikselden daha az piksellercun istifade elidir ve cox elverislidir.
+3)"Typicons"-Bu font novu de Font Awesome kimi istifade edilir ve odenissizdir.
+
+Sual <3>
+Az?rbaycan sriftl?rini d?st?kl?y?n 10 ?d?d font ail?sinin adini v? istifad? qaydasini yazin.
+1)"Arial"-istifadesi cox asandir. Sadece ariali secerek istifade etmek olar.
+2)"Times New Roman"-istifadesi cox asandir. Sadece times new romani secerek istifade etmek olar.
+3)"Walt Disney"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+4)"Sweetly Broken"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+5)"Nivea"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+6)"Larisa Script"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+7)"Garden"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+8)"Flashbang"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+9)"Dextor D OT"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
+10)"Cicek"-Bu umimi olaraq tapilmir, internetden endirib istifade etmek mumkundur.
