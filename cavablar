@@ -1,0 +1,41 @@
+Duzgun v? oxunaql? CSS kodu yazmaq ucun laz?m olabil?c?k 10 qayda yaz?n:
+
+1. Kodlari yazmaga baslamazdan evvel parametrler reset olunmalidir.
+2. Yazilacaq kodlar en optimal variantda yazilmali, tekrar yazilmis kod olmamalidir, bele yazdiqda yaddas tutumunu nisbeten azaltmis oluruq.
+3. Yazilan kodlarin daha oxunaqli olmasi ve basqalari terefinden de asan basa dusulen olmasi ucun komentlerden istifade olnunmalidir.
+4. Eyni parametr alan elementleri umumi classla ve ya .p1, .p2 { color: #888; } kimi yaza bilerik.
+5. Saytin suretli olmasi, tez yuklenmesi ucun yerlesdirilecek sekilleri daha kicik hecme cevirmek lazimdir.
+6. Class ve idlerin hansi elementi temsil etdiyi aydin olmalidir, buna gore de adlar elemente uygun qoyulmalidir ve eyni dilde olmalidir.
+7. Bezi kodlari eyni setirde yazmaq daha yaxsidir:
+	.header { background: #FFF url("img/image.png") no-repeat right top; } 
+	div { border-radius: 5px 5px 0 0; }
+8. Kodlar elifba sirasi ile ve ya qruplasma ardicilligi ile yazilmalidir.
+9. Teglere bacardiqca az div ve id verilmelidir.
+10.Bezi hallarda teqlere id ve ya class vermek evezine pseudo classlarla parametrlerini teyin etmek daha yaxsidir.
+
+
+Font Awesome kimi ikon fontlar? varm?? Varsa qisaca haqlarinda m?lumat verin.
+
+Beli. Entypo, Typicons, Iconic, IcoMoon, Octicons ve s. var. fontello.com saytinda bu ve basqa font ikonlar toplanmisdir.
+
+Az?rbaycan sriftl?rini d?st?kl?y?n 10 ?d?d font ail?sinin ad?n? v? istifad? qaydas?n? yaz?n:
+
+Aldo
+Bifur
+Break Fill
+Capsuula
+Daxline
+Great Vibes
+Handicraft
+Nova
+Pista
+SirrVrez
+
+1. Evvelce font yuklenir
+2. index.html fayli olan qovluqda fonts qovlugulugu yaradilir .otf ve ya .ttf uzantili fayl ora yerlesdirilir.
+3. .ttf faylinin fotmati truetype, .otf faylinin formati ise opentype'dir.
+4. @font-face{
+		font-family: <fontun adi>;
+		src: url(../fonts/<faylin adi>.<faylin uzantisi>) format(<faylin formati>);
+} yazib, fontdan istifade ede bilerik.
+   
